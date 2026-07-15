@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/calix/single_solution/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/calix/single_solution","disabled":false,"__vagrantfile":true}}}
